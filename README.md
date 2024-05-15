@@ -31,3 +31,7 @@ risk of RB after CABG.
 
 ![Fig 2-ROC AUC](https://github.com/Sepehr-76/Reoperation-due-to-bleeding-after-CABG-machine-learning-code/assets/136221815/8a23a549-e605-4ffc-818f-7dc819379445)![Fig 3-Shap](https://github.com/Sepehr-76/Reoperation-due-to-bleeding-after-CABG-machine-learning-code/assets/136221815/f0731afe-6772-465c-a0c2-e1251ea3d832)
 
+# Link to the application
+https://huggingface.co/spaces/heartcenter/Reoperation
+
+The code for the application is available in the **reoperation** repo
