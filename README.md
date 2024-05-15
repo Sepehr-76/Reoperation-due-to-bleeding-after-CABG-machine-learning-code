@@ -34,4 +34,4 @@ risk of RB after CABG.
 # Link to the application
 https://huggingface.co/spaces/heartcenter/Reoperation
 
-The code for the application is available in the **reoperation** repo
+The code for the application is available in the [**reoperation**](https://www.google.com) repo
