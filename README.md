@@ -2,9 +2,9 @@
 
 
 # Objectives: 
-In the present study, we compared the accuracy of different machine learning (ML)
+In the present study, I compared the accuracy of different machine learning (ML)
 models with logistic regression (LR) in predicting the risk of reoperation for bleeding (RB) after 
-coronary artery bypass graft (CABG) surgery. 
+coronary artery bypass graft (CABG) surgery. I used the data from a real hospital-based registry. The scholarly article for the current work is under review.
 
 # Methods: 
 A total of 25,224 patients who underwent CABG were included in the study. Reoperation 
