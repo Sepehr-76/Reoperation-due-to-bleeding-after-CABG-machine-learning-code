@@ -19,7 +19,7 @@ From the original total dataset, 807 (3.2%) patients required RB. Male sex, curr
 smoking, history of renal failure, antiplatelet use, urgent/emergent, and on-pump surgery were 
 more common among patients requiring RB. ROC AUC for the blended model was the highest 
 (61.67%, 95%CI: 58.21% - 65.15%), followed by LightGBM (61.56%, 95%CI: 58.10 - 65.04). The 
-logistic regression had a similar AUC (61.23%, 95%CI: 57.69% - 64.77%). 
+logistic regression had a similar AUC (61.23%, 95%CI: 57.69% - 64.77%). SHAP beeswarm plot was produced to make the lightGBM model more understandable.
 
 # Conclusions: 
 In small datasets, simpler models like LR may have similar accuracy to ML models 
@@ -34,4 +34,4 @@ risk of RB after CABG.
 # Link to the application
 https://huggingface.co/spaces/heartcenter/Reoperation
 
-The code for the application is available in the [**reoperation**](https://www.google.com) repo
+The code for the application is available in the [**reoperation**](https://github.com/Sepehr-76/Reoperation) repo
